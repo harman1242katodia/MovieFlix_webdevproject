@@ -80,7 +80,7 @@ body {
 /* Hero Section */
 .hero {
     height: 100vh;
-    background: url("{{ url_for('static', filename='images/smoky-background.jpg') }}") no-repeat center center/cover;
+    background: url("{{ url_for('static', filename='images/Home_Background.jpg') }}") no-repeat center center/cover;
     display: flex;
     align-items: center;
     justify-content: flex-start;
